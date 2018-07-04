@@ -4,16 +4,8 @@ self.__precacheManifest = [
     "url": "/msicon.ico"
   },
   {
-    "revision": "bf81481c13b3d41714b1b2b082f12d45",
-    "url": "/msicon.png"
-  },
-  {
     "revision": "3376d49d63cd4c6e42e927fd6d93b3f8",
     "url": "/mslogo.svg"
-  },
-  {
-    "revision": "6edd8b6917c5fabd5a9a885c6dca5d79",
-    "url": "/msicon.svg"
   },
   {
     "revision": "5fd2e8b651630229d227480e1c6222ac",
@@ -22,6 +14,14 @@ self.__precacheManifest = [
   {
     "revision": "1ebda0e88b71e3716a659c64eca95a92",
     "url": "/mslogo-large.png"
+  },
+  {
+    "revision": "6edd8b6917c5fabd5a9a885c6dca5d79",
+    "url": "/msicon.svg"
+  },
+  {
+    "revision": "bf81481c13b3d41714b1b2b082f12d45",
+    "url": "/msicon.png"
   },
   {
     "revision": "d6a5d91bee4615c0e2f8",

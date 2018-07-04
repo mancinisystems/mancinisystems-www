@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9e440d62f42fb2f714492bba0bbc85bc.js"
+  "/precache-manifest.fc1ec3d5b352b50af3e5f88473522b67.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mancinisystems-www"});

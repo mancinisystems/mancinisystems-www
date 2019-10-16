@@ -1,8 +1,0 @@
-<svg width="310" height="310" xmlns="http://www.w3.org/2000/svg" version="1.1">
-    <!-- black: #1F1F20. Blue: #2B4C7E. Blue Accent: #567EBB. Gray: #606D80. White: #DCE0E6-->
-    <!-- rect width="100%" height="100%" fill="#DCE0E6"/ -->
-    <svg x="0" y="0" fill="#2B4C7E">
-        <polygon points="49.27014063,0 260.7298594,0 155,183.1241688"/>
-        <polygon points="49.27014063,63.43791563 155,246.5620844 260.7298594,63.43791563 260.7298594,310 49.27014063,310"/>
-    </svg>
-</svg>

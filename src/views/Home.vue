@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img src="../assets/mslogo.svg">
-    <HomeHero msg="Premier Software Consulting -- Cloud and On-Premises; Windows, Linux, Containers, Kubernetes"/>
+    <HomeHero msg="Premier Computer Consulting"/>
   </div>
 </template>
 
